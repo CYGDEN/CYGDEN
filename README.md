@@ -6,7 +6,9 @@
       <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /><br>
       <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /><br>
       <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /><br>
-      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" /><br>
+      <img src="https://skillicons.dev/icons?i=ps" height="40" alt="PS" /><br>
+      <img src="https://img.icons8.com/color/48/fl-studio.png" height="40" alt="FL Studio" />
     </td>
     <td valign="top">
       <p>
