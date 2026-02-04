@@ -2,18 +2,18 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python" /><br>
-      <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" /><br>
-      <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" /><br>
-      <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" /><br>
-      <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VSCode" />
+      <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" /><br>
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /><br>
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /><br>
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /><br>
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
     </td>
     <td valign="top">
       <p>
         <img
           src="https://github-readme-stats-fast.vercel.app/api?username=CYGDEN&show_icons=true"
           alt="GitHub Stats"
-          height="150"
+          height="200"
         />
       <p align="center">
         <picture>
