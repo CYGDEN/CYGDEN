@@ -2,13 +2,14 @@
 <table>
   <tr>
     <td valign="top">
+      <img src="https://img.icons8.com/color/48/fl-studio.png" height="45" alt="FL Studio" /><br>
+      <img src="https://skillicons.dev/icons?i=blender" height="45" alt="blender" /><br>
       <img src="https://skillicons.dev/icons?i=py" height="45" alt="Python" /><br>
-      <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /><br>
-      <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /><br>
-      <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" /><br>
       <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VSCode" /><br>
+      <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /><br>
       <img src="https://skillicons.dev/icons?i=ps" height="45" alt="PS" /><br>
-      <img src="https://img.icons8.com/color/48/fl-studio.png" height="45" alt="FL Studio" />
+      <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /><br>
+      <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" /><br>
     </td>
     <td valign="top">
       <p>
