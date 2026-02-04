@@ -1,58 +1,23 @@
-
-
-
+<img width="1920" height="1080" alt="Untitled-1" src="https://github.com/user-attachments/assets/08df984b-1aa1-4d22-a977-1b7c99b378bf" />
 
 ###
 
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-
-
-
-
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=CYGDEN&show_icons=true" alt="GitHub Stats">
-</div>
-
-###
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="12" />
-</div>
-
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=CYGDEN&theme=flat&no-frame=true&no-bg=true&margin-w=1">
-</p>
-
-###
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CYGDEN/CYGDEN/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CYGDEN/CYGDEN/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/CYGDEN/CYGDEN/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python" /><br>
+      <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" /><br>
+      <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" /><br>
+      <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" /><br>
+      <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VSCode" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=CYGDEN&show_icons=true" alt="GitHub Stats"><br><br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CYGDEN/CYGDEN/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CYGDEN/CYGDEN/output/github-contribution-grid-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/CYGDEN/CYGDEN/output/github-contribution-grid-snake.svg" />
+      </picture>
+    </td>
+  </tr>
+</table>
