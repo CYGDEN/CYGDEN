@@ -3,6 +3,7 @@
   <tr>
     <td valign="top">
       <img src="https://img.icons8.com/color/48/fl-studio.png" height="45" alt="FL Studio" /><br>
+      <img src="https://skillicons.dev/icons?i=java" height="45" alt="Python" /><br>
       <img src="https://skillicons.dev/icons?i=blender" height="45" alt="blender" /><br>
       <img src="https://skillicons.dev/icons?i=py" height="45" alt="Python" /><br>
       <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VSCode" /><br>
