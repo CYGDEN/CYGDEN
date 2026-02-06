@@ -2,15 +2,15 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://img.icons8.com/color/48/fl-studio.png" height="45" alt="FL Studio" /><br>
-      <img src="https://skillicons.dev/icons?i=java" height="45" alt="Python" /><br>
-      <img src="https://skillicons.dev/icons?i=blender" height="45" alt="blender" /><br>
-      <img src="https://skillicons.dev/icons?i=py" height="45" alt="Python" /><br>
-      <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VSCode" /><br>
-      <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /><br>
-      <img src="https://skillicons.dev/icons?i=ps" height="45" alt="PS" /><br>
-      <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /><br>
-      <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" /><br>
+      <img src="https://img.icons8.com/color/48/fl-studio.png" height="50" alt="FL Studio" /><br>
+      <img src="https://skillicons.dev/icons?i=java" height="50" alt="java" /><br>
+      <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender" /><br>
+      <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" /><br>
+      <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VSCode" /><br>
+      <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" /><br>
+      <img src="https://skillicons.dev/icons?i=ps" height="50" alt="PS" /><br>
+      <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" /><br>
+      <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" /><br>
     </td>
     <td valign="top">
       <p>
