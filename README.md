@@ -9,6 +9,7 @@
       <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VSCode" /><br>
       <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" /><br>
       <img src="https://skillicons.dev/icons?i=ps" height="60" alt="PS" /><br>
+      <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp" /><br>
       <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" /><br>
       <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" /><br>
     </td>
