@@ -1,4 +1,4 @@
-[![header](https://github.com/user-attachments/assets/08df984b-1aa1-4d22-a977-1b7c99b378bf)](https://github.com/CYGDEN)
+[![header](https://github.com/CYGDEN/CYGDEN/blob/main/CYGDEN.png)](https://github.com/CYGDEN)
 <table>
 <tr>
 <td valign="top">
