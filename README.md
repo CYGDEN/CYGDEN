@@ -1,4 +1,4 @@
-[![header](https://github.com/CYGDEN/CYGDEN/blob/main/CYGDEN.png)](https://github.com/CYGDEN)
+[![header](https://github.com/CYGDEN/CYGDEN/blob/main/CYGDEN2027.png)](https://github.com/CYGDEN)
 <table>
 <tr>
 <td valign="top">
